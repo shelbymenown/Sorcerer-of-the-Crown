@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 462d7f675dd02bd43a43c4c722a54272
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1938693158013135483
+    second: jellyball_0
+  - first:
+      213: -9137383234182990758
+    second: jellyball_1
+  - first:
+      213: -84757487949561211
+    second: jellyball_2
+  - first:
+      213: 8176887806697105079
+    second: jellyball_3
+  - first:
+      213: 4135191647524284421
+    second: jellyball_4
+  - first:
+      213: -6969840972650485237
+    second: jellyball_5
+  - first:
+      213: 6691630054818764275
+    second: jellyball_6
+  - first:
+      213: 257849471530697487
+    second: jellyball_7
+  - first:
+      213: -595004716651949613
+    second: jellyball_8
+  - first:
+      213: -5811489452464564185
+    second: jellyball_9
+  - first:
+      213: 6459179103648786031
+    second: jellyball_10
+  - first:
+      213: 6353109520750866992
+    second: jellyball_11
+  - first:
+      213: 1577652902026458403
+    second: jellyball_12
+  - first:
+      213: 72208046825887484
+    second: jellyball_13
+  - first:
+      213: -2731354027375492463
+    second: jellyball_14
+  - first:
+      213: -3096275288881655775
+    second: jellyball_15
+  - first:
+      213: -2542270881532518924
+    second: jellyball_16
+  - first:
+      213: 8416205966809969906
+    second: jellyball_17
+  - first:
+      213: -6270039281030837800
+    second: jellyball_18
+  - first:
+      213: -2270516180209822399
+    second: jellyball_19
+  - first:
+      213: 5961631903510963424
+    second: jellyball_20
+  - first:
+      213: -7617543338831890718
+    second: jellyball_21
+  - first:
+      213: 8422058080191875893
+    second: jellyball_22
+  - first:
+      213: -4555538202360729501
+    second: jellyball_23
+  - first:
+      213: -4491974865338040206
+    second: jellyball_24
+  - first:
+      213: -5176898304552655193
+    second: jellyball_25
+  - first:
+      213: 8805132879349521632
+    second: jellyball_26
+  - first:
+      213: 1789857096550060300
+    second: jellyball_27
+  - first:
+      213: -9087397058317240248
+    second: jellyball_28
+  - first:
+      213: 7393618705564987438
+    second: jellyball_29
+  - first:
+      213: -2342326304291433660
+    second: jellyball_30
+  - first:
+      213: 5861373018385755556
+    second: jellyball_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jellyball_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a6ad3d72f97ea10800000000000000
+      internalID: 1938693158013135483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54b9e54c5e713180800000000000000
+      internalID: -9137383234182990758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58246b68381e2def0800000000000000
+      internalID: -84757487949561211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6676e13242a7170800000000000000
+      internalID: 8176887806697105079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508e8dce4e6236930800000000000000
+      internalID: 4135191647524284421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a643c2096264f90800000000000000
+      internalID: -6969840972650485237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5dcc1c4127ddc50800000000000000
+      internalID: 6691630054818764275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f030c1c6ab0149300800000000000000
+      internalID: 257849471530697487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d15748dc5e1eb7f0800000000000000
+      internalID: -595004716651949613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7289be13221795fa0800000000000000
+      internalID: -5811489452464564185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66ac9d2c2d93a950800000000000000
+      internalID: 6459179103648786031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 14
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032f18be277ca2850800000000000000
+      internalID: 6353109520750866992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_12
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325b624a4f2f4e510800000000000000
+      internalID: 1577652902026458403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_13
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf65bf406d8800100800000000000000
+      internalID: 72208046825887484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_14
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1928372cbf7481ad0800000000000000
+      internalID: -2731354027375492463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_15
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120936f8702d705d0800000000000000
+      internalID: -3096275288881655775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_16
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd5f6f4a1a08bcd0800000000000000
+      internalID: -2542270881532518924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_17
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f43b306cbe5cc470800000000000000
+      internalID: 8416205966809969906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_18
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 2
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d949667e785cf8a0800000000000000
+      internalID: -6270039281030837800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_19
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 2
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14511d550918d70e0800000000000000
+      internalID: -2270516180209822399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_20
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4286251a8fbb250800000000000000
+      internalID: 5961631903510963424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_21
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e638cb51bc094690800000000000000
+      internalID: -7617543338831890718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_22
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b8b83b33921e470800000000000000
+      internalID: 8422058080191875893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_23
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3603197242a77c0c0800000000000000
+      internalID: -4555538202360729501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_24
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 2
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2700b83d8ac49a1c0800000000000000
+      internalID: -4491974865338040206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_25
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a621de9b66f728b0800000000000000
+      internalID: -5176898304552655193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_26
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec9db1c3bd123a70800000000000000
+      internalID: 8805132879349521632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_27
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 14
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c011496db89d6d810800000000000000
+      internalID: 1789857096550060300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_28
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 2
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8483216c58413e180800000000000000
+      internalID: -9087397058317240248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_29
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 2
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2072e52a096b9660800000000000000
+      internalID: 7393618705564987438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_30
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 2
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443d7ace2a26e7fd0800000000000000
+      internalID: -2342326304291433660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyball_31
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 2
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad21f094b7c75150800000000000000
+      internalID: 5861373018385755556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - wall
+  - Enemy
+  - obstacle
+  - Destructor
+  - Undefined
+  - PlayerHealthBar
+  - PlayerManaBar
+  - HotBar8
+  - HotBar7
+  - PauseCanvas
+  - ItemDataBase
+  - Boss
+  - ItemTextAnimator
+  - HotBar
+  - HotBar1
+  - HotBar2
+  - HotBar3
+  - HotBar4
+  - HotBar5
+  - HotBar6
+  - Checkpoint1
+  - Checkpoint2
+  - Checkpoint3
+  - Checkpoint4
+  - Checkpoint5
+  - Checkpoint6
+  - GameSavedCanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Destructor
+  - Spawner
+  - Environment
+  - Obstacles
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Environment
+    uniqueID: 4224548847
+    locked: 0
+  - name: Objects (Non-Collidable)
+    uniqueID: 1462806575
+    locked: 0
+  - name: Player
+    uniqueID: 1021549299
+    locked: 0
+  - name: Objects
+    uniqueID: 591953375
+    locked: 0
+  - name: South Walls
+    uniqueID: 491646569
+    locked: 0

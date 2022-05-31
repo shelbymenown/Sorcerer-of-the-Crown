@@ -1,0 +1,61 @@
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+p1:-1 0 Change 453 created with 1 open file(s).
+p1:-1 0 Submitting change 453.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //depot/CAP4053 Game/ProjectSettings/TagManager.asset#10
+p1:-1 0 Change 453 submitted.
+p1:-1 0 Change 455 created with 1 open file(s).
+p1:-1 0 Submitting change 455.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //depot/CAP4053 Game/ProjectSettings/TagManager.asset#11
+p1:-1 0 Change 455 submitted.
+p1:-1 1 Change 481 created with 1 open file(s).
+p1:-1 1 Submitting change 481.
+p1:-1 1 Locking 1 files ...
+p1:-1 1 edit //depot/CAP4053 Game/ProjectSettings/TagManager.asset#13
+p1:-1 1 Change 481 submitted.
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+p1:-1 0 Change 545 created with 2 open file(s).
+p1:-1 0 Submitting change 545.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/CAP4053 Game/Assets/Scenes/Mechanical Dungeon.unity#9
+p1:-1 2 edit //depot/CAP4053 Game/Assets/Scenes/Mechanical Dungeon.unity.meta#4
+p1:-1 2 Change 545 submitted.
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+C:/Users/Shelb/Perforce/Shelby_Workspace/CAP4053 Game/Assets/Scripts/Camera.meta - file(s) not on client.
+
+w1:C:/Users/Shelb/Perforce/Shelby_Workspace/CAP4053 Game/Assets/Scripts/Camera.meta - file(s) not on client.\n
+C:/Users/Shelb/Perforce/Shelby_Workspace/CAP4053 Game/Assets/Scripts/Collisions.meta - file(s) not on client.
+
+w1:C:/Users/Shelb/Perforce/Shelby_Workspace/CAP4053 Game/Assets/Scripts/Collisions.meta - file(s) not on client.\n
+C:/Users/Shelb/Perforce/Shelby_Workspace/CAP4053 Game/Assets/Scripts/Enemies and AI.meta - file(s) not on client.
+
+w1:C:/Users/Shelb/Perforce/Shelby_Workspace/CAP4053 Game/Assets/Scripts/Enemies and AI.meta - file(s) not on client.\n
+C:/Users/Shelb/Perforce/Shelby_Workspace/CAP4053 Game/Assets/Scripts/Health and Mana.meta - file(s) not on client.
+
+w1:C:/Users/Shelb/Perforce/Shelby_Workspace/CAP4053 Game/Assets/Scripts/Health and Mana.meta - file(s) not on client.\n
+C:/Users/Shelb/Perforce/Shelby_Workspace/CAP4053 Game/Assets/Scripts/Player Controls.meta - file(s) not on client.
+
+w1:C:/Users/Shelb/Perforce/Shelby_Workspace/CAP4053 Game/Assets/Scripts/Player Controls.meta - file(s) not on client.\n
+C:/Users/Shelb/Perforce/Shelby_Workspace/CAP4053 Game/Assets/Scripts/Puzzle Handlers.meta - file(s) not on client.
+
+w1:C:/Users/Shelb/Perforce/Shelby_Workspace/CAP4053 Game/Assets/Scripts/Puzzle Handlers.meta - file(s) not on client.\n
+C:/Users/Shelb/Perforce/Shelby_Workspace/CAP4053 Game/Assets/Scripts/Scene Management.meta - file(s) not on client.
+
+w1:C:/Users/Shelb/Perforce/Shelby_Workspace/CAP4053 Game/Assets/Scripts/Scene Management.meta - file(s) not on client.\n
+C:/Users/Shelb/Perforce/Shelby_Workspace/CAP4053 Game/Assets/Scripts/Utility.meta - file(s) not on client.
+
+w1:C:/Users/Shelb/Perforce/Shelby_Workspace/CAP4053 Game/Assets/Scripts/Utility.meta - file(s) not on client.\n
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+C:/Users/Shelb/Perforce/Shelby_Workspace/CAP4053 Game/Assets/Final Boss.meta - file(s) not on client.
+
+w1:C:/Users/Shelb/Perforce/Shelby_Workspace/CAP4053 Game/Assets/Final Boss.meta - file(s) not on client.\n
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n

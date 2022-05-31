@@ -1,0 +1,1520 @@
+fileFormatVersion: 2
+guid: 400672787d2141747a5771fdb375be4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1699311691481814755
+    second: MAGE (LEFT)_1
+  - first:
+      213: -1406670559047246165
+    second: MAGE (LEFT)_3
+  - first:
+      213: 5683073545701602194
+    second: MAGE (LEFT)_5
+  - first:
+      213: 1315837501076119806
+    second: MAGE (LEFT)_7
+  - first:
+      213: 1507477805506796985
+    second: MAGE (LEFT)_9
+  - first:
+      213: 3426287493533551706
+    second: MAGE (LEFT)_11
+  - first:
+      213: 2598002037672861518
+    second: MAGE (LEFT)_13
+  - first:
+      213: -4375186204821483987
+    second: MAGE (LEFT)_15
+  - first:
+      213: -249501128394057808
+    second: MAGE (LEFT)_17
+  - first:
+      213: -1802904190283241233
+    second: MAGE (LEFT)_19
+  - first:
+      213: 6424401779989207192
+    second: MAGE (LEFT)_21
+  - first:
+      213: -5000142838218968571
+    second: MAGE (LEFT)_23
+  - first:
+      213: -6099674525167507622
+    second: MAGE (LEFT)_25
+  - first:
+      213: -2178658344144746955
+    second: MAGE (LEFT)_26
+  - first:
+      213: 3229325392568349627
+    second: MAGE (LEFT)_27
+  - first:
+      213: 5308061987168549409
+    second: MAGE (LEFT)_28
+  - first:
+      213: -6491528563952930612
+    second: MAGE (LEFT)_31
+  - first:
+      213: 3896942327502997442
+    second: MAGE (LEFT)_32
+  - first:
+      213: 5523301075825358148
+    second: MAGE (LEFT)_33
+  - first:
+      213: 6835776874320708756
+    second: MAGE (LEFT)_34
+  - first:
+      213: -379338575443497184
+    second: MAGE (LEFT)_35
+  - first:
+      213: -8275837516678397403
+    second: MAGE (LEFT)_36
+  - first:
+      213: 6872717574547483818
+    second: MAGE (LEFT)_37
+  - first:
+      213: -4278981552028176148
+    second: MAGE (LEFT)_38
+  - first:
+      213: 4400513776544492748
+    second: MAGE (LEFT)_39
+  - first:
+      213: -5285928467430825747
+    second: MAGE (LEFT)_40
+  - first:
+      213: -6310691025142635792
+    second: MAGE (LEFT)_43
+  - first:
+      213: -5226995112020716666
+    second: MAGE (LEFT)_44
+  - first:
+      213: 6754782010942660280
+    second: MAGE (LEFT)_45
+  - first:
+      213: 2954553467537957869
+    second: MAGE (LEFT)_46
+  - first:
+      213: 6208895944491386195
+    second: MAGE (LEFT)_47
+  - first:
+      213: 3449268839343314520
+    second: MAGE (LEFT)_50
+  - first:
+      213: -8221801416387053217
+    second: MAGE (LEFT)_53
+  - first:
+      213: 286608870338083518
+    second: MAGE (LEFT)_54
+  - first:
+      213: -287878344403077937
+    second: MAGE (LEFT)_55
+  - first:
+      213: 23159129947352305
+    second: MAGE (LEFT)_56
+  - first:
+      213: -4960440730166104192
+    second: MAGE (LEFT)_57
+  - first:
+      213: 7736847739096506427
+    second: MAGE (LEFT)_58
+  - first:
+      213: 4935927239944817970
+    second: MAGE (LEFT)_59
+  - first:
+      213: 3030852410417836186
+    second: MAGE (LEFT)_63
+  - first:
+      213: -3411995299340314767
+    second: MAGE (LEFT)_64
+  - first:
+      213: -3006020134078388101
+    second: MAGE (LEFT)_65
+  - first:
+      213: 5229277354080374261
+    second: MAGE (LEFT)_66
+  - first:
+      213: 5874246525315849236
+    second: MAGE (LEFT)_67
+  - first:
+      213: 4451128782128199007
+    second: MAGE (LEFT)_68
+  - first:
+      213: 4875709490692210623
+    second: MAGE (LEFT)_69
+  - first:
+      213: -3876084983874006909
+    second: MAGE (LEFT)_70
+  - first:
+      213: 2078991631960930412
+    second: MAGE (LEFT)_71
+  - first:
+      213: -5948676745082926451
+    second: MAGE (LEFT)_72
+  - first:
+      213: 450691012819171231
+    second: MAGE (LEFT)_74
+  - first:
+      213: -1778181306341657700
+    second: MAGE (LEFT)_75
+  - first:
+      213: -6151989704244268982
+    second: MAGE (LEFT)_80
+  - first:
+      213: 8877633896155548200
+    second: MAGE (LEFT)_86
+  - first:
+      213: -4396207960575078206
+    second: MAGE (LEFT)_87
+  - first:
+      213: 1813160415785432606
+    second: MAGE (LEFT)_88
+  - first:
+      213: -6089722155912506918
+    second: MAGE (LEFT)_89
+  - first:
+      213: -7989883832559055519
+    second: MAGE (LEFT)_91
+  - first:
+      213: 3696943931884146017
+    second: MAGE (LEFT)_93
+  - first:
+      213: -9105910736469230448
+    second: MAGE (LEFT)_94
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MAGE (LEFT)_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 512
+        width: 27
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19ee8a1505da68e0800000000000000
+      internalID: -1699311691481814755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 512
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae1df354908a7ce0800000000000000
+      internalID: -1406670559047246165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 512
+        width: 25
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293b6f397455ede40800000000000000
+      internalID: 5683073545701602194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 512
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0a7c15c3bc24210800000000000000
+      internalID: 1315837501076119806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_9
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 512
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd9400c313abe410800000000000000
+      internalID: 1507477805506796985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 512
+        width: 25
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c4e66725e9c8f20800000000000000
+      internalID: 3426287493533551706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 512
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f5b35a615fd0420800000000000000
+      internalID: 2598002037672861518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_15
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 512
+        width: 27
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e0d63d3573843c0800000000000000
+      internalID: -4375186204821483987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 448
+        width: 29
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7530fab08998cf0800000000000000
+      internalID: -249501128394057808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 448
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8aa1ee03ccaf6e0800000000000000
+      internalID: -1802904190283241233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 448
+        width: 29
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898d4a6816f082950800000000000000
+      internalID: 6424401779989207192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 448
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502bebd949ceb9ab0800000000000000
+      internalID: -5000142838218968571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_25
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 448
+        width: 28
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5724e9365a995ba0800000000000000
+      internalID: -6099674525167507622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_26
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 448
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536cf4e67c9d3c1e0800000000000000
+      internalID: -2178658344144746955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_27
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 448
+        width: 25
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb37f28b55ed0dc20800000000000000
+      internalID: 3229325392568349627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_28
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 448
+        width: 25
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a7fe601460aa940800000000000000
+      internalID: 5308061987168549409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 384
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0b8482a2579e5a0800000000000000
+      internalID: -6491528563952930612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 384
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c700056668b41630800000000000000
+      internalID: 3896942327502997442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 384
+        width: 19
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4457a149015b6ac40800000000000000
+      internalID: 5523301075825358148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 384
+        width: 19
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49447b589de8dde50800000000000000
+      internalID: 6835776874320708756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_35
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 384
+        width: 19
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f661153915cbaf0800000000000000
+      internalID: -379338575443497184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_36
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 384
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522888730a1562d80800000000000000
+      internalID: -8275837516678397403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_37
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 384
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacac78883cc06f50800000000000000
+      internalID: 6872717574547483818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_38
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 320
+        width: 25
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce039ee03f00e94c0800000000000000
+      internalID: -4278981552028176148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_39
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 320
+        width: 36
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccca52007f3c11d30800000000000000
+      internalID: 4400513776544492748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_40
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 320
+        width: 38
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de029ae901c94a6b0800000000000000
+      internalID: -5285928467430825747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 320
+        width: 34
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2a027b2fbeb68a0800000000000000
+      internalID: -6310691025142635792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_44
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 320
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6835d41b3abf577b0800000000000000
+      internalID: -5226995112020716666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_45
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 320
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be9f69537ecdbd50800000000000000
+      internalID: 6754782010942660280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_46
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 320
+        width: 25
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3af7e89bea00920800000000000000
+      internalID: 2954553467537957869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_47
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 320
+        width: 40
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355c5c227fd6a2650800000000000000
+      internalID: 6208895944491386195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 256
+        width: 38
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856d1effbb34edf20800000000000000
+      internalID: 3449268839343314520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 256
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59327a3c2b46ed80800000000000000
+      internalID: -8221801416387053217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_54
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 257
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba3af1cf3d3af300800000000000000
+      internalID: 286608870338083518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_55
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 256
+        width: 18
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4b357cb20410cf0800000000000000
+      internalID: -287878344403077937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_56
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 256
+        width: 25
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fca1d12b17425000800000000000000
+      internalID: 23159129947352305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_57
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 256
+        width: 41
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fe11dff69f82bb0800000000000000
+      internalID: -4960440730166104192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_58
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 256
+        width: 31
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30a122f60ece5b60800000000000000
+      internalID: 7736847739096506427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_59
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 256
+        width: 31
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dc51e4cafef7440800000000000000
+      internalID: 4935927239944817970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_63
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 192
+        width: 25
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9077998530cf0a20800000000000000
+      internalID: 3030852410417836186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_64
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 192
+        width: 40
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177948f4a5826a0d0800000000000000
+      internalID: -3411995299340314767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_65
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 192
+        width: 36
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78e5985d987846d0800000000000000
+      internalID: -3006020134078388101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_66
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 128
+        width: 23
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd84f13c00229840800000000000000
+      internalID: 5229277354080374261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_67
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 128
+        width: 23
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c16887714858150800000000000000
+      internalID: 5874246525315849236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_68
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 128
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55b4445b0695cd30800000000000000
+      internalID: 4451128782128199007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_69
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 128
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfb5bcf2fff9a340800000000000000
+      internalID: 4875709490692210623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_70
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 128
+        width: 21
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380d6f85e31653ac0800000000000000
+      internalID: -3876084983874006909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_71
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 64
+        width: 31
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c687a02dfdf0adc10800000000000000
+      internalID: 2078991631960930412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_72
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 64
+        width: 31
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a84bd840e027da0800000000000000
+      internalID: -5948676745082926451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_74
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 64
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f973c8a961d214600800000000000000
+      internalID: 450691012819171231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_75
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 64
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93f349e581a257e0800000000000000
+      internalID: -1778181306341657700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_80
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 40
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40f8a865fdbf9aa0800000000000000
+      internalID: -6151989704244268982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_86
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 25
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a815a2ef0b33b70800000000000000
+      internalID: 8877633896155548200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_87
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 25
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c09d27e6288df2c0800000000000000
+      internalID: -4396207960575078206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_88
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 20
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16b0b7aac3a92910800000000000000
+      internalID: 1813160415785432606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_89
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 31
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad15204c6f5fc7ba0800000000000000
+      internalID: -6089722155912506918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_91
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 33
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d4eab8cfa3e1190800000000000000
+      internalID: -7989883832559055519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_93
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d8d763bee2e4330800000000000000
+      internalID: 3696943931884146017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAGE (LEFT)_94
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 32
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cf55c2e6e41a180800000000000000
+      internalID: -9105910736469230448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

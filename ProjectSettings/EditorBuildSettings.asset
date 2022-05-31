@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: da2f0354021d6fa41b9c34c1b602e1df
+  - enabled: 0
+    path: Assets/Scenes/Old Scenes/Dungeon Level.unity
+    guid: 88c7455c79ca4ad47a0de6a2a6273e7e
+  - enabled: 0
+    path: Assets/Scenes/Old Scenes/Test Dungeon.unity
+    guid: 5c5647db021d5e64e82cd8223c0003ee
+  - enabled: 1
+    path: Assets/Scenes/Loading Scenes/Loading Scene 1.unity
+    guid: 9651d293837d671439fb9ed51e8fd388
+  - enabled: 1
+    path: Assets/Scenes/Mechanical Dungeon.unity
+    guid: 01eadd8d3c567bc4b92e845b8899d6ed
+  - enabled: 1
+    path: Assets/Scenes/Loading Scenes/Loading Scene 2.unity
+    guid: 475a1818bed499446a5900bb40364d84
+  - enabled: 1
+    path: Assets/Scenes/Sand Temple.unity
+    guid: 1fd32a29bcf001c4983c5e26cc1a42ca
+  - enabled: 1
+    path: Assets/Scenes/Loading Scenes/Loading Scene 3.unity
+    guid: 5a0f9caf90c469f4aa97991a3499e628
+  - enabled: 1
+    path: Assets/Scenes/Catacombs.unity
+    guid: 47e884aecb1a9fe499ce5b7347fc9485
+  - enabled: 1
+    path: Assets/Scenes/Winning Scene.unity
+    guid: 5749839221898ee4eb657181957313de
+  m_configObjects: {}

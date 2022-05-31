@@ -1,0 +1,1184 @@
+fileFormatVersion: 2
+guid: fef269d9264cb664b9d0cf17cf12f92a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 298211249877359018
+    second: Gold outline original_0
+  - first:
+      213: 283959327993156110
+    second: Gold outline original_1
+  - first:
+      213: -7062226373936631878
+    second: Gold outline original_2
+  - first:
+      213: -6120826380010145614
+    second: Gold outline original_3
+  - first:
+      213: -9060754760137351420
+    second: Gold outline original_4
+  - first:
+      213: -2197626723915356504
+    second: Gold outline original_5
+  - first:
+      213: -566535892461812290
+    second: Gold outline original_6
+  - first:
+      213: 8508454467922928618
+    second: Gold outline original_7
+  - first:
+      213: 6022252017828198780
+    second: Gold outline original_8
+  - first:
+      213: 1915096565526645248
+    second: Gold outline original_9
+  - first:
+      213: -3157087388028900439
+    second: Gold outline original_10
+  - first:
+      213: 7931717949315442026
+    second: Gold outline original_11
+  - first:
+      213: -1093551631527056840
+    second: Gold outline original_12
+  - first:
+      213: -922875166341711044
+    second: Gold outline original_13
+  - first:
+      213: -7434270869038305298
+    second: Gold outline original_14
+  - first:
+      213: -6127661810053124813
+    second: Gold outline original_15
+  - first:
+      213: 3322792478948747739
+    second: Gold outline original_16
+  - first:
+      213: -6775429563792559419
+    second: Gold outline original_17
+  - first:
+      213: -2554620666891863646
+    second: Gold outline original_18
+  - first:
+      213: 5545438428978555794
+    second: Gold outline original_19
+  - first:
+      213: 5734343222028994353
+    second: Gold outline original_20
+  - first:
+      213: 1351397932274903839
+    second: Gold outline original_21
+  - first:
+      213: 1377381867333474776
+    second: Gold outline original_22
+  - first:
+      213: -5451630165168332140
+    second: Gold outline original_23
+  - first:
+      213: -6315601322329981660
+    second: Gold outline original_24
+  - first:
+      213: 5362182226599821911
+    second: Gold outline original_25
+  - first:
+      213: -3336113219545505930
+    second: Gold outline original_26
+  - first:
+      213: -8779541345125081617
+    second: Gold outline original_27
+  - first:
+      213: 3739082189517929590
+    second: Gold outline original_28
+  - first:
+      213: -8939932155223918877
+    second: Gold outline original_29
+  - first:
+      213: -5341293747664563586
+    second: Gold outline original_30
+  - first:
+      213: 7950343286966738428
+    second: Gold outline original_31
+  - first:
+      213: -7334366967720557756
+    second: Gold outline original_32
+  - first:
+      213: -5419145885723105603
+    second: Gold outline original_33
+  - first:
+      213: -229347500795293879
+    second: Gold outline original_34
+  - first:
+      213: 1995924033575453066
+    second: Gold outline original_35
+  - first:
+      213: 8706093585623285249
+    second: Gold outline original_36
+  - first:
+      213: 4931974771425608173
+    second: Gold outline original_37
+  - first:
+      213: -1396121531094891636
+    second: Gold outline original_38
+  - first:
+      213: -5186628343363907418
+    second: Gold outline original_39
+  - first:
+      213: -6780357643695876241
+    second: Gold outline original_40
+  - first:
+      213: -1357731404860219501
+    second: Gold outline original_41
+  - first:
+      213: 8367480900666623089
+    second: Gold outline original_42
+  - first:
+      213: 5105673083834010430
+    second: Gold outline original_43
+  - first:
+      213: -7876370754349539192
+    second: Gold outline original_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gold outline original_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 87
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa917f04d85732400800000000000000
+      internalID: 298211249877359018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 87
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02d0bb1183d0f300800000000000000
+      internalID: 283959327993156110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 87
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfac1ab78eedfd90800000000000000
+      internalID: -7062226373936631878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 87
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8b7af36d47e0ba0800000000000000
+      internalID: -6120826380010145614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 87
+        width: 4
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f55153d8bb14280800000000000000
+      internalID: -9060754760137351420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 86
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6ae1c53267081e0800000000000000
+      internalID: -2197626723915356504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 87
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb50e418b924328f0800000000000000
+      internalID: -566535892461812290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 86
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3a124424a141670800000000000000
+      internalID: 8508454467922928618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 87
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79778e8d46539350800000000000000
+      internalID: 6022252017828198780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 88
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a49c20e2ac39a10800000000000000
+      internalID: 1915096565526645248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 89
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abebaf5fb5cf24d0800000000000000
+      internalID: -3157087388028900439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 88
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65698b637f131e60800000000000000
+      internalID: 7931717949315442026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 87
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ae743c59ce2d0f0800000000000000
+      internalID: -1093551631527056840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 64
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b3c220de94133f0800000000000000
+      internalID: -922875166341711044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 64
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefefe6780a24d890800000000000000
+      internalID: -7434270869038305298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 62
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d6e0cac0c26faa0800000000000000
+      internalID: -6127661810053124813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 61
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9641a972eec1e20800000000000000
+      internalID: 3322792478948747739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 62
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2f671a5b6d8f1a0800000000000000
+      internalID: -6775429563792559419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 62
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9f906d90a2c8cd0800000000000000
+      internalID: -2554620666891863646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_19
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 60
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b2113ceda55fc40800000000000000
+      internalID: 5545438428978555794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 60
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137053157ca749f40800000000000000
+      internalID: 5734343222028994353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 62
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b6177624121c210800000000000000
+      internalID: 1351397932274903839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 63
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9d97ab2817d1310800000000000000
+      internalID: 1377381867333474776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_23
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 64
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492665eaf3be754b0800000000000000
+      internalID: -5451630165168332140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 65
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42db88f0f0a7a58a0800000000000000
+      internalID: -6315601322329981660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 34
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7524565335c4a6a40800000000000000
+      internalID: 5362182226599821911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 28
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f518ac3beb3b1d0800000000000000
+      internalID: -3336113219545505930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 34
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedd6f0a9adc82680800000000000000
+      internalID: -8779541345125081617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 34
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cb43cd073e3e330800000000000000
+      internalID: 3739082189517929590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 37
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e639c3121bfee380800000000000000
+      internalID: -8939932155223918877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 37
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e725079c2a9efd5b0800000000000000
+      internalID: -5341293747664563586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 36
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd5016c81b455e60800000000000000
+      internalID: 7950343286966738428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_32
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 33
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44348ac1a18173a90800000000000000
+      internalID: -7334366967720557756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 33
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6647f57835bc4b0800000000000000
+      internalID: -5419145885723105603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_34
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 32
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f09f4c9a131dcf0800000000000000
+      internalID: -229347500795293879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_35
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 29
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a810eeb6552f2bb10800000000000000
+      internalID: 1995924033575453066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_36
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 33
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ef1604df142d870800000000000000
+      internalID: 8706093585623285249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de103048ce4e17440800000000000000
+      internalID: 4931974771425608173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_38
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8380db4ddaff9ce0800000000000000
+      internalID: -1396121531094891636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_39
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 3
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a052db60056508b0800000000000000
+      internalID: -5186628343363907418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67176d95a457e1a0800000000000000
+      internalID: -6780357643695876241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_41
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 4
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f1ae81b7e582de0800000000000000
+      internalID: -1357731404860219501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_42
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 5
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174891ddb834f1470800000000000000
+      internalID: 8367480900666623089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_43
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 6
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b03356e9efad640800000000000000
+      internalID: 5105673083834010430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold outline original_44
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 6
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88068bb978281b290800000000000000
+      internalID: -7876370754349539192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

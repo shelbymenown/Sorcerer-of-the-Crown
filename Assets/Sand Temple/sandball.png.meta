@@ -1,0 +1,1184 @@
+fileFormatVersion: 2
+guid: 2188af7fb8297b94dacd8deb04b37c12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1562730383711045020
+    second: sandball_0
+  - first:
+      213: -6154778611783773458
+    second: sandball_1
+  - first:
+      213: -3567257937820951919
+    second: sandball_2
+  - first:
+      213: -3691314352418628525
+    second: sandball_3
+  - first:
+      213: 2312093179074396877
+    second: sandball_4
+  - first:
+      213: 7578622051935357265
+    second: sandball_5
+  - first:
+      213: -7120381239970020208
+    second: sandball_6
+  - first:
+      213: 8658385297190064974
+    second: sandball_7
+  - first:
+      213: -5485355344032271011
+    second: sandball_8
+  - first:
+      213: 3098447385807397164
+    second: sandball_9
+  - first:
+      213: 7647907009137928799
+    second: sandball_10
+  - first:
+      213: -436150253788699601
+    second: sandball_11
+  - first:
+      213: 4210441689937153356
+    second: sandball_12
+  - first:
+      213: -4056874789432456184
+    second: sandball_13
+  - first:
+      213: 4442610042467743817
+    second: sandball_14
+  - first:
+      213: -8432318042147729395
+    second: sandball_15
+  - first:
+      213: -308966400245413033
+    second: sandball_16
+  - first:
+      213: 6021419375465136957
+    second: sandball_17
+  - first:
+      213: 4697649196844974144
+    second: sandball_18
+  - first:
+      213: 5838853294739027745
+    second: sandball_19
+  - first:
+      213: 2567975866128612407
+    second: sandball_20
+  - first:
+      213: 8179594400039515841
+    second: sandball_21
+  - first:
+      213: 8625132460139637886
+    second: sandball_22
+  - first:
+      213: 1418405918135466176
+    second: sandball_23
+  - first:
+      213: 1468671855990584000
+    second: sandball_24
+  - first:
+      213: -3255477846792393452
+    second: sandball_25
+  - first:
+      213: -5042982314745680007
+    second: sandball_26
+  - first:
+      213: 8654862197287994426
+    second: sandball_27
+  - first:
+      213: 5430425272422812888
+    second: sandball_28
+  - first:
+      213: -6697659665180846202
+    second: sandball_29
+  - first:
+      213: 8042412171173445051
+    second: sandball_30
+  - first:
+      213: -2703753193282780530
+    second: sandball_31
+  - first:
+      213: -6699336806982270231
+    second: sandball_32
+  - first:
+      213: -7379287789310891992
+    second: sandball_33
+  - first:
+      213: -1267827958609616979
+    second: sandball_34
+  - first:
+      213: -7921440659970219836
+    second: sandball_35
+  - first:
+      213: 224181376720185167
+    second: sandball_36
+  - first:
+      213: -3952411684171349522
+    second: sandball_37
+  - first:
+      213: 5805256086022231567
+    second: sandball_38
+  - first:
+      213: -7890843087193979801
+    second: sandball_39
+  - first:
+      213: 9164565613141015412
+    second: sandball_40
+  - first:
+      213: -8612105452261798353
+    second: sandball_41
+  - first:
+      213: -3075521200837517687
+    second: sandball_42
+  - first:
+      213: 2413548230245578447
+    second: sandball_43
+  - first:
+      213: -5532444062628558343
+    second: sandball_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sandball_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c958ec8110fefa510800000000000000
+      internalID: 1562730383711045020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2d4754675d59aa0800000000000000
+      internalID: -6154778611783773458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a5df14ecd8e7ec0800000000000000
+      internalID: -3567257937820951919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c59c56721d5ccc0800000000000000
+      internalID: -3691314352418628525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc245521f74361020800000000000000
+      internalID: 2312093179074396877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1598c8c5a9cac2960800000000000000
+      internalID: 7578622051935357265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0944b36dcf25f2d90800000000000000
+      internalID: -7120381239970020208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e439a7fbd83c82870800000000000000
+      internalID: 8658385297190064974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d557a24906a10e3b0800000000000000
+      internalID: -5485355344032271011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21a94a2b75effa20800000000000000
+      internalID: 3098447385807397164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ae2ea87e2d22a60800000000000000
+      internalID: 7647907009137928799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f246a3ea7ab72f9f0800000000000000
+      internalID: -436150253788699601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d033cb86e7e6a30800000000000000
+      internalID: 4210441689937153356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c04ad8fd513b7c0800000000000000
+      internalID: -4056874789432456184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9487fd0bb4257ad30800000000000000
+      internalID: 4442610042467743817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00daa0ca636afa80800000000000000
+      internalID: -8432318042147729395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_16
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b47d922b456bbf0800000000000000
+      internalID: -308966400245413033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_17
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d330146e401609350800000000000000
+      internalID: 6021419375465136957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04008592e07613140800000000000000
+      internalID: 4697649196844974144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_19
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127f980d226c70150800000000000000
+      internalID: 5838853294739027745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_20
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c3f5cc17843a320800000000000000
+      internalID: 2567975866128612407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_21
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6312df4c1c38170800000000000000
+      internalID: 8179594400039515841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_22
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 0
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c605b4640a2b770800000000000000
+      internalID: 8625132460139637886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_23
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 0
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8b6c1eaa03fa310800000000000000
+      internalID: 1418405918135466176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_24
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2beeb8545c16410800000000000000
+      internalID: 1468671855990584000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_25
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d29c7852832d2d0800000000000000
+      internalID: -3255477846792393452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_26
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 0
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fa109bd4ab30ab0800000000000000
+      internalID: -5042982314745680007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_27
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 0
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34ce41205f3c1870800000000000000
+      internalID: 8654862197287994426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_28
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 0
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcc01e730fbc5b40800000000000000
+      internalID: 5430425272422812888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_29
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 0
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6871f6e25022d03a0800000000000000
+      internalID: -6697659665180846202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_30
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 0
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd321852436c9f60800000000000000
+      internalID: 8042412171173445051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_31
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 0
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e824d0abbc65a7ad0800000000000000
+      internalID: -2703753193282780530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_32
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e24f1d2bac2703a0800000000000000
+      internalID: -6699336806982270231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_33
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 0
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8282fbe4ad0879990800000000000000
+      internalID: -7379287789310891992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_34
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafd3ca5035c76ee0800000000000000
+      internalID: -1267827958609616979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_35
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 0
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0a32970b3611290800000000000000
+      internalID: -7921440659970219836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_36
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f472aac36c37c1300800000000000000
+      internalID: 224181376720185167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_37
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 0
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee10dd693863629c0800000000000000
+      internalID: -3952411684171349522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_38
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 0
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06978517a9609050800000000000000
+      internalID: 5805256086022231567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_39
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 0
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764c47905081e7290800000000000000
+      internalID: -7890843087193979801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_40
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bb7048ed31f2f70800000000000000
+      internalID: 9164565613141015412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_41
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 0
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e0bb558b7ab7880800000000000000
+      internalID: -8612105452261798353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_42
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 0
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e95ec33cd8155d0800000000000000
+      internalID: -3075521200837517687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_43
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 0
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc67f00f355ae7120800000000000000
+      internalID: 2413548230245578447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandball_44
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 0
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f94e4bef6fc833b0800000000000000
+      internalID: -5532444062628558343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
